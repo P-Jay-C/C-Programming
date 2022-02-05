@@ -1,0 +1,4 @@
+Name = Jerry
+Age = 21
+Salary     = 80000.00
+That is what i like most.
